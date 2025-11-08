@@ -1,7 +1,4 @@
-Bilkul bhai 😄👇 — yeh raha **poora ready-to-upload `README.md`** file ekdum clean aur professional format mein —
-just copy-paste this into your GitHub repo (no extra edits needed).
 
----
 
 ```markdown
 # ⚙️ Full Adder in Verilog (Combinational Logic)
