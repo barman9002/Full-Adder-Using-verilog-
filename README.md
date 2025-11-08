@@ -241,5 +241,3 @@ After completing this project, you will:
 3. Paste the content and save.  
 4. Commit and push to GitHub — your repo will now have a perfect formatted README page.  
 
-Would you like me to add a **circuit diagram (Full Adder using logic gates)** image section that you can include below the truth table? It’ll make your README look even better visually.
-```
